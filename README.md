@@ -10,3 +10,6 @@ Download Link: https://drive.google.com/file/d/1_DYDr10RW_wS76PPUuOIxTkFerwivaG3
 
 
 Enjoy!
+
+NOTE: If you are getting error while inatalling py4img, please type this command:
+sudo apt-get update && sudo apt install gcc python3-dev
